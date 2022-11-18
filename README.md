@@ -1,8 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Sayan Deb
+P.s. "andybeas" is just an anagram of my name.
 [![@andybeas's Holopin board](https://holopin.me/andybeas)](https://holopin.io/@andybeas)
-<!--
-**andybeas/andybeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Google Clould certifications
 - 🌱 I’m currently learning Google Cloud and Full-Stack Web Development
@@ -12,4 +10,3 @@
 - 📫 How to reach me: linktr.ee/andybeas
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am more fun than you might think ;P
--->
