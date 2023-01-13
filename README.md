@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andybeas&label=Profile%20views&color=0e75b6&style=flat" alt="andybeas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andybeas" alt="andybeas" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_andybeas_" target="blank"><img src="https://img.shields.io/twitter/follow/_andybeas_?logo=twitter&style=for-the-badge" alt="_andybeas_" /></a> </p>
 
 - 🔭 I’m currently working on **Google Cloud certifications**
@@ -13,7 +11,16 @@
 
 - 👯 I’m looking to collaborate on **more Web-dev projects to polish off my skills**
 
+- 🤔 If you wanna teach me ML, **I am more than up for it!**
+
+- 💬 Ask me about my interests! **Perhaps we might match ;D**
+
+- 📫 All of my links are here: **linktr.ee/andybeas**
+
 - ⚡ Fun fact **I am more fun than you might think ;P**
+
+
+[![@andybeas's Holopin board](https://holopin.me/andybeas)](https://holopin.io/@andybeas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andybeas&" alt="andybeas" /></p>
 
-[![@andybeas's Holopin board](https://holopin.me/andybeas)](https://holopin.io/@andybeas)
+
+
