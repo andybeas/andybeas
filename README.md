@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Google Cloud certifications**
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **more Web-dev projects to polish off my skills**
 
