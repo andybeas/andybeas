@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andybeas&label=Profile%20views&color=0e75b6&style=flat" alt="andybeas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_andybeas_" target="blank">My Website</a> </p>
+<p align="left"> <a href="https://sayandeb.vercel.app" target="blank">My Website</a> </p>
 
-<p align="left"> <a href="[https://sayandeb.vercel.app" target="blank"><img src="https://img.shields.io/twitter/follow/_andybeas_?logo=twitter&style=for-the-badge" alt="_andybeas_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_andybeas_" target="blank"><img src="https://img.shields.io/twitter/follow/_andybeas_?logo=twitter&style=for-the-badge" alt="_andybeas_" /></a> </p>
 
 - 🔭 I’m currently working on **Google Cloud certifications**
 
